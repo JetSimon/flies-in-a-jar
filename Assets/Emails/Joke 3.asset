@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3edaa92a6a833db47b2a56e9934aa472, type: 3}
+  m_Name: Joke 3
+  m_EditorClassIdentifier: 
+  sender: Ricky
+  senderEmail: randomkid24@firemail.com
+  subject: this is so cool!!!!
+  body: "WOW I DONT KNOW WHO YOU ARE BUT I JUST GOT ELECTRONIC MAIL FROM MY PARENTS
+    COMPUTER THIS IS SOOOO COOOL!!!!!!!\n\nI T4LK L1K3 A L337 H4XX0R \n\nCHECK THIS
+    OUT\n\n\xAF\\(\xB0_o)/\xAF \r\n\xAF\\(\xB0_o)/\xAF\r\n\nXD\n"

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3edaa92a6a833db47b2a56e9934aa472, type: 3}
+  m_Name: Roberts-1
+  m_EditorClassIdentifier: 
+  sender: ANDREW ROBERTS
+  senderEmail: andrew.roberts@fcl.gov
+  subject: the flies
+  body: "The experiment was a success. The modified specimens are currently in captivity
+    in <b>ROOM-537</b>\n\nThey are to be kept under surveillance 24/7. Under no cirsumstances
+    may unauthorized personnel be granted access to the specimens. \n\nSpecimens
+    are threat level <b>ZETA</b>\n\nThank you for your cooperation,\n\nDr. Roberts"

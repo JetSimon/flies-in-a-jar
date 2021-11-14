@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3edaa92a6a833db47b2a56e9934aa472, type: 3}
+  m_Name: Cash-1
+  m_EditorClassIdentifier: 
+  sender: Cash Thompson
+  senderEmail: c.thompson@fcl.gov
+  subject: Hey buddy!
+  body: "Hey bro,\n\nI heard you got the job. Congrats! I'm happy I could vouch for
+    you. We gotta go out for beers sometimes and celebrate.\n\nIt's a pretty chill
+    job, just sit there and watch the cameras for anything weird. \n\nI'm sure you'll
+    do great. \n\n\n\nCash"
